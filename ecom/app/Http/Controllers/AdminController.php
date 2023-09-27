@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Fortify\Actions\AttemptToAuthenticate;
 use App\Fortify\Actions\RedirectIfTwoFactorAuthenticatable;
+use App\Http\Responses\LoginResponse;
 use Illuminate\Contracts\Auth\StatefulGuard;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
@@ -11,7 +12,6 @@ use Illuminate\Routing\Pipeline;
 use Laravel\Fortify\Actions\CanonicalizeUsername;
 use Laravel\Fortify\Actions\EnsureLoginIsNotThrottled;
 use Laravel\Fortify\Actions\PrepareAuthenticatedSession;
-use Laravel\Fortify\Contracts\LoginResponse;
 use Laravel\Fortify\Contracts\LoginViewResponse;
 use Laravel\Fortify\Contracts\LogoutResponse;
 use Laravel\Fortify\Features;
