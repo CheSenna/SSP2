@@ -1,0 +1,1 @@
+<img src="images/IT_2.png" alt="logo" width="350" hieght="350" class="logo-lg" />
