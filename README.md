@@ -3,7 +3,7 @@
 ![Project Image](https://github.com/krm-aadil/test/blob/main/crm.png?raw=true)
 
 ## PROJECT DOCUMENT
-[PROJECT DOCUMENT](https://github.com/krm-aadil/crm-system-laravel/blob/master/SSP2_CB010188.pdf)
+[PROJECT DOCUMENT](https://github.com/CheSenna/SSP2/blob/main/SSP2.pdf)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,18 +18,16 @@
 
 ## Introduction
 
-This project is a comprehensive e-commerce solution with an integrated Customer Relationship Management (CRM) system. It is designed to streamline the book-selling process by providing customers with a seamless shopping experience and empowering businesses to manage customer relationships and sales activities effectively.
+This project is a comprehensive e-commerce solution with an integrated Customer Relationship Management (CRM) system. It is designed to streamline the PC sales and part retail process by providing customers with a seamless shopping experience and empowering businesses to manage customer relationships and sales activities effectively.
 
 ## Features
 
-- User-friendly e-commerce website for browsing and purchasing books.
-- Advanced search functionality based on titles, authors, genres, and keywords.
-- Detailed book descriptions and availability status.
-- Secure and reliable payment options.
+- User-friendly e-commerce website for browsing and purchasing PCs, laptops and other peripherals.
+- Advanced search functionality based on brands and keywords.
+- Detailed product descriptions.
 - CRM system for efficient customer relationship management.
-- Centralized customer data, including contact information and purchase history.
-- Personalized recommendations and targeted marketing campaigns.
-- Order management with real-time order status tracking.
+- Centralized customer data.
+- Order management with order status tracking.
 - Customer support with communication history for faster issue resolution.
 - Analytics and reporting capabilities for data-driven decision-making.
 
