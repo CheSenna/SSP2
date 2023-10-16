@@ -1,6 +1,6 @@
 # E-commerce Website with Integrated CRM System
 
-![Project Image](https://github.com/krm-aadil/test/blob/main/crm.png?raw=true)
+![Project Image](https://github.com/CheSenna/SSP2/blob/main/homepage.png?raw=true)
 
 ## PROJECT DOCUMENT
 [PROJECT DOCUMENT](https://github.com/CheSenna/SSP2/blob/main/SSP2.pdf)
